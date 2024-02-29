@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T09:43:26.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R7WoSz0wbF1RRexlWWDc" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T09:44:06.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EO-LXSt0U6EoFIWNe4zH" version="23.1.7" type="github">
   <diagram name="Page-1" id="ljHkqZAnSOCg1GNqxGZW">
     <mxGraphModel dx="1912" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -418,6 +418,9 @@
         </mxCell>
         <mxCell id="_K9WmI28nCBrt-Ih7Ebq-2" value="ProjectSpace" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="999.5" y="923" width="149" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="_K9WmI28nCBrt-Ih7Ebq-2">
+          <mxGeometry x="123.25" y="-3" width="25.75" height="25.75" as="geometry" />
         </mxCell>
         <mxCell id="_K9WmI28nCBrt-Ih7Ebq-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png;imageBackground=#000000;" vertex="1" parent="1">
           <mxGeometry x="998" y="1053" width="266.79" height="47.13" as="geometry" />
