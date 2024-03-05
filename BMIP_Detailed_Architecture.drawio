@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T09:44:06.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EO-LXSt0U6EoFIWNe4zH" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T10:15:57.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3-WLrp7tKshXPhqrtm7I" version="23.1.8" type="github">
   <diagram name="Page-1" id="ljHkqZAnSOCg1GNqxGZW">
-    <mxGraphModel dx="1912" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
             <mxPoint x="260" y="161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qeyFx8b00SiY3KIknr_p-19" target="_K9WmI28nCBrt-Ih7Ebq-7">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qeyFx8b00SiY3KIknr_p-19" target="_K9WmI28nCBrt-Ih7Ebq-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qeyFx8b00SiY3KIknr_p-19" value="Tenant BMIP" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
@@ -128,7 +128,7 @@
         <mxCell id="t7buzby4ZerqmVHVCHEI-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://min.io/resources/img/logo/MINIO_wordmark.png;" parent="1" vertex="1">
           <mxGeometry x="503.85" y="247" width="110.51" height="16.67" as="geometry" />
         </mxCell>
-        <mxCell id="t7buzby4ZerqmVHVCHEI-63" value="Structured Data&lt;br&gt;RDF" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="t7buzby4ZerqmVHVCHEI-63" value="Structured Data&lt;br&gt;RDF (API)" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="201" y="263.67" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="t7buzby4ZerqmVHVCHEI-64" value="Unstrucrured Data&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;(DICOM / OMICS / Images)&lt;/span&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -410,37 +410,37 @@
         <mxCell id="cqnAX0KBtmtKx_XYSE5e-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unibe.ch/unibe/portal/content/e809/e946/e8896/e880982/e1007201/edu-id-logo-full_ger.png;" parent="cqnAX0KBtmtKx_XYSE5e-7" vertex="1">
           <mxGeometry x="8" y="40" width="184.26" height="50.5" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_K9WmI28nCBrt-Ih7Ebq-1" target="qeyFx8b00SiY3KIknr_p-107">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_K9WmI28nCBrt-Ih7Ebq-1" target="qeyFx8b00SiY3KIknr_p-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-1" value="Project Tenant" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-1" value="Project Tenant" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="980" y="883" width="298" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-2" value="ProjectSpace" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-2" value="ProjectSpace" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="999.5" y="923" width="149" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="_K9WmI28nCBrt-Ih7Ebq-2">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" parent="_K9WmI28nCBrt-Ih7Ebq-2" vertex="1">
           <mxGeometry x="123.25" y="-3" width="25.75" height="25.75" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png;imageBackground=#000000;" vertex="1" parent="1">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/2560px-Kubernetes_logo.svg.png;imageBackground=#000000;" parent="1" vertex="1">
           <mxGeometry x="998" y="1053" width="266.79" height="47.13" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-6" value="External Ressources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-6" value="External Ressources" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1435" y="880" width="195" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-7" value="Image Registries (Docker/Kanico/TuneInsight/SPHN)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_K9WmI28nCBrt-Ih7Ebq-6">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-7" value="Image Registries (Docker/Kanico/TuneInsight/SPHN)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_K9WmI28nCBrt-Ih7Ebq-6" vertex="1">
           <mxGeometry y="30" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-8" value="Package Repositories (pip/npm)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_K9WmI28nCBrt-Ih7Ebq-6">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-8" value="Package Repositories (pip/npm)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="_K9WmI28nCBrt-Ih7Ebq-6" vertex="1">
           <mxGeometry y="60" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-14" value="Object Store" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-14" value="Object Store" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="721" y="790.25" width="209" height="109.75" as="geometry" />
         </mxCell>
         <mxCell id="qeyFx8b00SiY3KIknr_p-108" value="Delivery&lt;br&gt;Packages" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;" parent="_K9WmI28nCBrt-Ih7Ebq-14" vertex="1">
           <mxGeometry x="145.08000000000004" y="32.25" width="28.85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="_K9WmI28nCBrt-Ih7Ebq-14">
+        <mxCell id="_K9WmI28nCBrt-Ih7Ebq-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" parent="_K9WmI28nCBrt-Ih7Ebq-14" vertex="1">
           <mxGeometry x="183.25" width="25.75" height="25.75" as="geometry" />
         </mxCell>
         <mxCell id="qeyFx8b00SiY3KIknr_p-113" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://min.io/resources/img/logo/MINIO_wordmark.png;" parent="_K9WmI28nCBrt-Ih7Ebq-14" vertex="1">
